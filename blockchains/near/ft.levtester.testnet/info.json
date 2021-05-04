@@ -1,0 +1,10 @@
+{
+    "name": "Lev's Cool Test Fungible Token",
+    "description": "Lev's very own test token",
+    "explorer": "https://explorer.near.org/",
+    "research": "https://research.binance.com/en/projects/near-protocol",
+    "symbol": "LEV",
+    "type": "COIN",
+    "decimals": 8,
+    "status": "active"
+}
